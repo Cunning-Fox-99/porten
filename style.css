@@ -16,7 +16,14 @@
 
 
 }
+.top-line-text{
+    font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
 
+}
 .top-line-info {
     display: flex;
     color: #969696;
@@ -25,12 +32,12 @@
 
 .top-line-tel {
     margin-right: 10px;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
 .vl {
     border-left: 1px solid #969696;
-    margin-top: 5px;
+    margin-top: 1px;
     margin-left: 10px;
     margin-right: 10px;
     height: 15px;
@@ -44,6 +51,10 @@
 .top-line-a {
     text-decoration: none;
     color: #969696;
+    
+}
+.top-line-btn{
+    margin-top: -7px;
 }
 
 .top-line-a:hover {
@@ -53,7 +64,7 @@
 
 .top-line-login-img {
     margin-right: 10px;
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 /* Second line */
